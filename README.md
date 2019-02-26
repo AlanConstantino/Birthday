@@ -4,4 +4,4 @@ This was written to help me understand how GUI's function.
 The layout manager that was used is the default "BorderLayout."
 
 
-Compile and run the "BirthdayGUI.java" file to get started.
+#### Compile and run the "BirthdayGUI.java" file to get started.
